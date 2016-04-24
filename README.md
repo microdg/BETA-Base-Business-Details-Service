@@ -18,18 +18,18 @@ The Data Model is defined as:
 
 
 To run this service locally:
-* From within the PROD-Base-Business-Details Directory
+* From within the BETA-Base-Business-Details Directory
 '''
 sbt clean compile
 sbt test
 sbt run
 '''
 * This will compile the service, test it and run it. 
-* Then open a browser, navigate to localhost:8080 proceeded by the desired endpoint
-* A list of endpoints can be found at: localhost:8080/hello
+* Then open a browser, navigate to localhost:8081 proceeded by the desired endpoint
+* A list of endpoints can be found at: localhost:8081/hello
 
 Alternatively, you can open this source code in the Typesafe Activator UI:
-* From within the PROD-Base-Business-Details Directory
+* From within the BETA-Base-Business-Details Directory
 '''
 activator ui
 '''
