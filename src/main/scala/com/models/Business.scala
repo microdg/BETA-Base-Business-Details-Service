@@ -38,8 +38,8 @@ object Business{
         Business(23, "Stratton Consultants", "finance", "consultants", "+353214341483", "Stratton House, Bishopstown Cork Co. Cork", "Cork", "Cork", "Munster"),
         Business(24, "IFAC Accountants", "finance", "accountants", "+353214381096", "U12A Sunbury, Blarney, Co. Cork", "Cork", "Cork", "Munster"),
         Business(25, "Biz Mate", "finance", "consultants", "+353214897116", "Tranquillity, Rochestown Road, Cork, Co. Cork", "Cork", "Cork", "Munster"),
-        Business(26, "Hartnett & Co", "finance", "consultants", "+353215005890", " 1st Floor, Red Abbey Building, Unit 20 South Link Park, Frankfield, Co. Cork", "Cork", "Cork", "Munster"),
-        Business(27, "Gordon Lane & Co", "finance", "accountants", "+353214272320", "4th Floor, Hanover House, 85/89 South Main Street, Cork City Centre, Co. Cork", "Cork", "Cork", "Munster"),
+        Business(26, "Hartnett & Co", "finance", "consultants", "+353215005890", "1st Floor, Red Abbey Building, Unit 20 South Link Park, Frankfield, Co. Cork", "Cork", "Cork", "Munster"),
+        // Business(27, "Gordon Lane & Co", "finance", "accountants", "+353214272320", "4th Floor, Hanover House, 85/89 South Main Street, Cork City Centre, Co. Cork", "Cork", "Cork", "Munster"),
         //Connacht
         Business(28, "Da Roberta Ristorante", "f&b", "restaurant", "+35391585808", "169 Upper Salthill, Salthill, Co. Galway", "Galway", "Galway", "Connacht"),
         Business(29, "Culture Cafe", "f&b", "cafe", "+35391547676", "5 Lombard St, Co. Galway", "Galway", "Galway", "Connacht"),
